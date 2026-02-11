@@ -8,7 +8,7 @@ Laboratórios práticos de Linux e notas de estudo estruturadas com foco no uso 
 
 Este repositório documenta minha jornada de aprendizado prático em Linux.
 
-O objetivo não é apenas a teoria, mas o uso real da linha de comando, a exploração do sistema e a experimentação — construindo uma base sólida para Redes e futuros trabalhos de DevOps.
+O objetivo não é apenas a teoria, mas o uso real da linha de comando, a exploração do sistema e a experimentação — construindo uma base sólida para Redes e futuras atuações em DevOps.
 
 ---
 
@@ -26,7 +26,7 @@ O objetivo não é apenas a teoria, mas o uso real da linha de comando, a explor
 
 ---
 
-## 🧪 Estrutura do Laboratório
+## 🧪 Estrutura dos Laboratórios
 
 Cada tópico inclui:
 
@@ -50,7 +50,7 @@ Cada tópico inclui:
 
 ## 🚀 Progresso
 
-Este repositório é atualizado continuamente à medida que estudo e pratico os fundamentos do Linux.
+Este repositório é atualizado conforme avanço no estudos e na prática dos fundamentos do Linux.
 
 ---
 
