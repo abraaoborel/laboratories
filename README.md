@@ -1,57 +1,59 @@
-# Linux Labs
+# Laboratórios Linux
 
-Hands-on Linux labs and structured study notes focused on command-line usage, system fundamentals, and practical experimentation.
-
----
-
-## 🎯 Objective
-
-This repository documents my practical learning journey in Linux.
-
-The goal is not just theory, but real command-line usage, system exploration, and experimentation — building a solid foundation for Networking and future DevOps work.
+Laboratórios práticos de Linux e notas de estudo estruturadas com foco no uso da linha de comando, fundamentos do sistema e experimentação prática.
 
 ---
 
-## 📚 Topics Covered
+## 🎯 Objetivo
 
-- Linux file system structure
-- File and directory management
-- Permissions and ownership
-- Process management
-- Package management
-- Shell basics (Bash)
-- System monitoring tools
-- Basic networking commands
+Este repositório documenta minha jornada de aprendizado prático em Linux.
+
+O objetivo não é apenas a teoria, mas o uso real da linha de comando, a exploração do sistema e a experimentação — construindo uma base sólida para Redes e futuros trabalhos de DevOps.
 
 ---
 
-## 🧪 Lab Structure
+## 📚 Tópicos Abordados
 
-Each topic includes:
+- Estrutura do sistema de arquivos Linux
+- Gerenciamento de arquivos e diretórios
+- Permissões e propriedade
+- Gerenciamento de processos
+- Gerenciamento de pacotes
+- Noções básicas de shell (Bash)
 
-- Concept explanation (in my own words)
-- Commands used
-- Practical examples
-- Observations and notes from testing
+- Ferramentas de monitoramento do sistema
+- Comandos básicos de rede
 
 ---
 
-## 🛠 Environment
+## 🧪 Estrutura do Laboratório
 
-- Distribution: Debian
+Cada tópico inclui:
+
+- Explicação do conceito (em minhas próprias palavras)
+- Comandos utilizados
+- Exemplos práticos
+- Observações e anotações dos testes
+
+---
+
+## 🛠 Ambiente
+
+- Distribuição: Debian
 - Shell: Bash
-- Practice done in:
-  - Local machine
-  - Virtual machine
+- Prática realizada em:
+
+- Máquina local
+- Máquina virtual
 
 ---
 
-## 🚀 Progress
+## 🚀 Progresso
 
-This repository is continuously updated as I study and practice Linux fundamentals.
+Este repositório é atualizado continuamente à medida que estudo e pratico os fundamentos do Linux.
 
 ---
 
-## 📌 Note
+## 📌 Observação
 
-These are personal study notes and lab experiments created for learning purposes.
+Estas são anotações de estudo pessoais e experimentos de laboratório criados para fins de aprendizado.
