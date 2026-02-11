@@ -56,4 +56,4 @@ Este repositório é atualizado conforme avanço no estudos e na prática dos fu
 
 ## 📌 Observação
 
-Estas são anotações de estudo pessoais e experimentos de laboratório criados para fins de aprendizado.
+Estas são anotações de estudo pessoais e experimentos de laboratório criados exclusivamente para fins de aprendizado.
