@@ -29,6 +29,9 @@ O objetivo não é apenas a teoria, mas o uso real da linha de comando, a explor
 - - Windows Server
   - Certificados: Azure (Az900, inicialmente em paralelo com meus estudos de redes da faculdade)
 
+- Redes:
+- - Protocolos da Camada 2, 3 e 4 (pratica e teoria, entre erros e acertos)
+
 ---
 
 ## 🧪 Estrutura dos Laboratórios
