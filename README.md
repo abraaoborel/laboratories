@@ -1,28 +1,33 @@
 # Laboratórios Linux
 
-Laboratórios práticos de Linux e notas de estudo estruturadas com foco no uso da linha de comando, fundamentos do sistema e experimentação prática.
+Laboratórios práticos gerais, pretendo praticar aqui:
+
+Linux
+Windows
+Docker
+Redes (Cisco, CompTIA)
+Cybersecurity (TryHackMe e HackTheBox)
+E meu inglês também, dentro dos labs de Linux, Windows, Redes, etc...
 
 ---
 
 ## 🎯 Objetivo
 
-Este repositório documenta minha jornada de aprendizado prático em Linux.
+Este repositório documenta minha jornada de aprendizado prático em Linux, Windows e Redes.
 
-O objetivo não é apenas a teoria, mas o uso real da linha de comando, a exploração do sistema e a experimentação — construindo uma base sólida para Redes e futuras atuações em DevOps.
+O objetivo não é apenas a teoria, mas o uso real da linha de comando, a exploração do sistema e a experimentação — construindo uma base sólida para Redes e futuras atuações em SysAdmin.
 
 ---
 
 ## 📚 Tópicos Abordados
 
-- Estrutura do sistema de arquivos Linux
-- Gerenciamento de arquivos e diretórios
-- Permissões e propriedade
-- Gerenciamento de processos
-- Gerenciamento de pacotes
-- Noções básicas de shell (Bash)
+- Linux:
+- - Arch Linux, Ubuntu server
+  - Certificados: LPI 010-160 (Inicialmente prentendo estudar em paralelo dentro dos meus laboratórios de Linux)
 
-- Ferramentas de monitoramento do sistema
-- Comandos básicos de rede
+- Windows:
+- - Windows Server
+  - Certificados: Azure (Az900, inicialmente em paralelo com meus estudos de redes da faculdade)
 
 ---
 
@@ -39,18 +44,14 @@ Cada tópico inclui:
 
 ## 🛠 Ambiente
 
-- Distribuição: Debian
-- Shell: Bash
-- Prática realizada em:
-
-- Máquina local
-- Máquina virtual
+- Máquinas locais
+- Máquinas virtuais (VMware)
 
 ---
 
 ## 🚀 Progresso
 
-Este repositório é atualizado conforme avanço no estudos e na prática dos fundamentos do Linux.
+Este repositório é atualizado conforme avanço no estudos e na prática dos fundamentos em Redes de Computadores.
 
 ---
 
