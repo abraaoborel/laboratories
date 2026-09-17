@@ -2,12 +2,13 @@
 
 Laboratórios práticos gerais, pretendo praticar aqui:
 
-Linux
-Windows
-Docker
-Redes (Cisco, CompTIA)
-Cybersecurity (TryHackMe e HackTheBox)
-E meu inglês também, dentro dos labs de Linux, Windows, Redes, etc...
+- Linux
+- Windows
+- Docker
+- Proxmox
+- Redes (Cisco, CompTIA)
+- Cybersecurity (TryHackMe e HackTheBox)
+- E meu inglês também, dentro dos labs de Linux, Windows, Redes, etc...
 
 ---
 
