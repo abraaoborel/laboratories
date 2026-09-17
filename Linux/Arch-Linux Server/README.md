@@ -4,6 +4,6 @@ E estarei documentando algumas etapas importantes, não pretendo fazer deste rep
 
 Mas usarei este espaço para aprender, errar e fazer denovo.
 
-Pretendo documentar todo o laboratório, este é minha primeira instalação do Arch Linux e pretendo fazer tudo na mão mesmo.
+Pretendo documentar todo o laboratório, esta é minha primeira instalação do Arch Linux e pretendo fazer tudo na mão mesmo.
 
 Baixei a imagem.iso no site oficial, estarei usando a VMware, coloquei a rede em modo NAT para isolar o tráfego, como não tenho poder de processamento no meu computador, estou usando 2 núcleos (meu pc tem 4), dediquei 20 gb para o vdmk (virtual machine disk), meu sistema nativo neste momento é o Windows 10.
